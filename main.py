@@ -1,4 +1,4 @@
-import tkinter as tk #pip install tkinter
+import tkinter as tk 
 import time
 
 
